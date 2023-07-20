@@ -1,8 +1,4 @@
 ### 大家好 👋
-
-<a href="https://github.com/kongxiangyiren" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/kongxiangyiren/kongxiangyiren/assets/github-contribution-grid-snake.svg" alt="kongxiangyiren" style="width:100%;" />
-</a>
 <p>
 <a href="https://github.com/kongxiangyiren" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongxiangyiren&layout=compact" alt="kongxiangyiren" style="width:41%;" />
