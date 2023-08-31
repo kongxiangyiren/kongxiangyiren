@@ -13,6 +13,6 @@
 
 ### 其他
 
-[gitee](https://gitee.com/fei-yuhao)
+[gitee](https://gitee.com/kongxiangyiren)
 
 [爱发电](https://afdian.net/a/kongxiang)
